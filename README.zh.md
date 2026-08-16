@@ -21,6 +21,10 @@
 
 </div>
 
+<p align="center">
+       <img src="./assets/job-list-report.png" alt="Job Hunt List 可搜索 HTML 职位报告" width="100%">
+</p>
+
 > 📦 也包含在完整的 **[offer-toolkit-skill](https://github.com/yanliudesign/offer-toolkit-skill)** 里，一次安装即可串起 Search · JD · Resume · BQ 全流程。
 
 一个专门用来建立和维护求职岗位清单的 agent skill。给它你的简历、目标方向、一份种子 JD，或者一批已有职位链接，它会搜索公开来源、去重、区分事实与推断、根据真实简历证据排序，并生成一份可以在本地搜索筛选的单文件 HTML 报告。

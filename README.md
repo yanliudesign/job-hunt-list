@@ -21,6 +21,10 @@ Discover · deduplicate · verify · rank · track
 
 </div>
 
+<p align="center">
+	<img src="./assets/job-list-report.png" alt="Job Hunt List searchable HTML report" width="100%">
+</p>
+
 > 📦 Also included in **[offer-toolkit-skill](https://github.com/yanliudesign/offer-toolkit-skill)** — the full Search · JD · Resume · BQ workflow.
 
 An agent skill for building and maintaining a complete job-hunt list. Give it your resume, target direction, a seed JD, or an existing set of job links. It searches public sources, removes duplicates, separates verified facts from inference, ranks roles against real resume evidence, and generates one self-contained HTML report you can search and filter locally.
